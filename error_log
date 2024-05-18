@@ -1,0 +1,1489 @@
+[09-Jan-2024 18:32:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Jan-2024 18:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Jan-2024 10:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Jan-2024 18:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[16-Jan-2024 06:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[16-Jan-2024 18:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[17-Jan-2024 06:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Jan-2024 06:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[23-Jan-2024 18:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[24-Jan-2024 18:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Jan-2024 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[26-Jan-2024 08:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(2041): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2346): wp_notify_moderator()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(326): wp_new_comment_notify_moderator()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2320): do_action()
+#10 /home/ujianori/pusatplisket.com/wp-includes/comment.php(3671): wp_new_comment()
+#11 /home/ujianori/pusatplisket.com/wp-comments-post.php(25): wp_handle_comment_submission()
+#12 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Jan-2024 11:00:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[29-Jan-2024 18:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[30-Jan-2024 06:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[30-Jan-2024 19:46:44 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[30-Jan-2024 19:46:44 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[30-Jan-2024 21:24:26 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[31-Jan-2024 11:24:05 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[31-Jan-2024 14:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[31-Jan-2024 18:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[01-Feb-2024 01:53:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Feb-2024 22:30:07 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[01-Feb-2024 22:30:07 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[03-Feb-2024 18:51:16 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[03-Feb-2024 18:51:16 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[04-Feb-2024 10:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[05-Feb-2024 18:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Feb-2024 18:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[07-Feb-2024 03:01:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[07-Feb-2024 18:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[08-Feb-2024 18:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[11-Feb-2024 10:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[13-Feb-2024 06:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Feb-2024 06:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Feb-2024 15:18:58 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Feb-2024 18:47:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Feb-2024 13:54:24 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Feb-2024 18:32:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Feb-2024 10:56:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Feb-2024 18:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Feb-2024 18:45:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 211
+[22-Feb-2024 18:45:28 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 449
+[22-Feb-2024 18:45:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[23-Feb-2024 06:33:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[23-Feb-2024 18:45:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 211
+[23-Feb-2024 18:45:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 449
+[23-Feb-2024 18:46:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[24-Feb-2024 06:33:27 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 211
+[24-Feb-2024 06:33:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 449
+[24-Feb-2024 06:34:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[24-Feb-2024 18:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Feb-2024 11:00:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Feb-2024 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(2041): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2346): wp_notify_moderator()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(326): wp_new_comment_notify_moderator()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2320): do_action()
+#10 /home/ujianori/pusatplisket.com/wp-includes/comment.php(3671): wp_new_comment()
+#11 /home/ujianori/pusatplisket.com/wp-comments-post.php(25): wp_handle_comment_submission()
+#12 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[26-Feb-2024 18:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Feb-2024 06:31:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[27-Feb-2024 06:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Feb-2024 18:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[29-Feb-2024 18:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[02-Mar-2024 18:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[03-Mar-2024 10:55:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[04-Mar-2024 18:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[05-Mar-2024 18:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[08-Mar-2024 18:33:06 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 211
+[08-Mar-2024 18:33:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 449
+[08-Mar-2024 18:33:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[09-Mar-2024 06:33:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 211
+[09-Mar-2024 06:33:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 449
+[09-Mar-2024 06:33:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pusatplisket.com/wp-includes/update.php on line 730
+[09-Mar-2024 18:33:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[11-Mar-2024 18:31:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Mar-2024 06:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[13-Mar-2024 18:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Mar-2024 18:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Mar-2024 19:06:09 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[14-Mar-2024 19:06:09 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[15-Mar-2024 12:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(2041): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2346): wp_notify_moderator()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(326): wp_new_comment_notify_moderator()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2320): do_action()
+#10 /home/ujianori/pusatplisket.com/wp-includes/comment.php(3671): wp_new_comment()
+#11 /home/ujianori/pusatplisket.com/wp-comments-post.php(25): wp_handle_comment_submission()
+#12 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Mar-2024 18:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Mar-2024 19:17:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Mar-2024 10:57:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[19-Mar-2024 04:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(2041): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2346): wp_notify_moderator()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(326): wp_new_comment_notify_moderator()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-includes/comment.php(2320): do_action()
+#10 /home/ujianori/pusatplisket.com/wp-includes/comment.php(3671): wp_new_comment()
+#11 /home/ujianori/pusatplisket.com/wp-comments-post.php(25): wp_handle_comment_submission()
+#12 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[19-Mar-2024 18:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Mar-2024 02:13:05 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[20-Mar-2024 02:13:05 UTC] PHP Warning:  Undefined array key "action" in /home/ujianori/pusatplisket.com/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[20-Mar-2024 18:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[21-Mar-2024 06:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Mar-2024 06:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Mar-2024 18:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[24-Mar-2024 10:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Mar-2024 18:28:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[26-Mar-2024 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Base_Data_Control" not found in /home/ujianori/pusatplisket.com/wp-content/plugins/metform/controls/form-picker.php:6
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-content/plugins/metform/controls/base.php(46): include_once()
+#1 /home/ujianori/pusatplisket.com/wp-content/plugins/metform/controls/base.php(22): MetForm\Controls\Base->include_files()
+#2 /home/ujianori/pusatplisket.com/wp-content/plugins/metform/plugin.php(335): MetForm\Controls\Base->init()
+#3 /home/ujianori/pusatplisket.com/wp-content/plugins/metform/metform.php(37): MetForm\Plugin->init()
+#4 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): {closure}()
+#5 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/ujianori/pusatplisket.com/wp-settings.php(506): do_action()
+#8 /home/ujianori/pusatplisket.com/wp-config.php(74): require_once('/home/ujianori/...')
+#9 /home/ujianori/pusatplisket.com/wp-load.php(50): require_once('/home/ujianori/...')
+#10 /home/ujianori/pusatplisket.com/wp-blog-header.php(13): require_once('/home/ujianori/...')
+#11 /home/ujianori/pusatplisket.com/index.php(17): require('/home/ujianori/...')
+#12 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-content/plugins/metform/controls/form-picker.php on line 6
+[26-Mar-2024 18:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Mar-2024 06:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Mar-2024 18:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[29-Mar-2024 18:28:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[03-Apr-2024 08:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[04-Apr-2024 11:48:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[07-Apr-2024 10:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[08-Apr-2024 18:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[09-Apr-2024 22:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[14-Apr-2024 10:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[18-Apr-2024 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[21-Apr-2024 10:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[23-Apr-2024 06:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[24-Apr-2024 20:48:07 UTC] PHP Warning:  Undefined array key "icon" in /home/ujianori/pusatplisket.com/wp-content/plugins/elementor/includes/widgets/icon-box.php on line 695
+[24-Apr-2024 20:48:07 UTC] PHP Warning:  Undefined array key "icon" in /home/ujianori/pusatplisket.com/wp-content/plugins/elementor/includes/widgets/icon-box.php on line 708
+[25-Apr-2024 04:13:31 UTC] PHP Warning:  Undefined array key "icon" in /home/ujianori/pusatplisket.com/wp-content/plugins/elementor/includes/widgets/icon-box.php on line 695
+[25-Apr-2024 04:13:31 UTC] PHP Warning:  Undefined array key "icon" in /home/ujianori/pusatplisket.com/wp-content/plugins/elementor/includes/widgets/icon-box.php on line 708
+[26-Apr-2024 06:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[28-Apr-2024 10:56:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[05-May-2024 10:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[06-May-2024 18:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[07-May-2024 18:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[08-May-2024 06:29:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[12-May-2024 10:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/includes/emails/class-emails.php(428): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-content/plugins/google-analytics-premium/pro/includes/emails/summaries.php(355): MonsterInsights_WP_Emails->send()
+#6 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): MonsterInsights_Email_Summaries->cron()
+#7 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#10 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[13-May-2024 06:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[16-May-2024 18:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pusatplisket.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1359): wp_mail()
+#5 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(1042): WP_Automatic_Updater->send_plugin_theme_email()
+#6 /home/ujianori/pusatplisket.com/wp-admin/includes/class-wp-automatic-updater.php(608): WP_Automatic_Updater->after_plugin_theme_update()
+#7 /home/ujianori/pusatplisket.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pusatplisket.com/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pusatplisket.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pusatplisket.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pusatplisket.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/PHPMailer/PHPMailer.php on line 881

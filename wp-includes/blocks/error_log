@@ -1,0 +1,4 @@
+[13-Mar-2024 09:20:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pusatplisket.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pusatplisket.com/wp-includes/blocks/index.php on line 8

@@ -1,0 +1,1207 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Fashly \u2013 Fashion & Clothing Designer Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/metform-appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/fashly\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/bg1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 156059,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-wavy-futuristic-background_6970553.htm"
+        },
+        {
+            "filename": "fashion-designer-working-with-textile-in-workshop-e1649483247638.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-working-with-textile-in-workshop-e1649483247638-800x865.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117565,
+            "dimensions": [
+                942,
+                1019
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHWHTZ8"
+        },
+        {
+            "filename": "fashion-designer-workspace-e1649869619831.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-workspace-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 249929,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFPDP3Y"
+        },
+        {
+            "filename": "topp-view-on-woman-designer-drawing-clothes-sketche-UEHCSLF.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/topp-view-on-woman-designer-drawing-clothes-sketche-UEHCSLF-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 305663,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UEHCSLF"
+        },
+        {
+            "filename": "top-view-on-woman-designer-drawing-clothes-sketches-e1649869837824.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/top-view-on-woman-designer-drawing-clothes-sketches-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 304815,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EVJFMKL"
+        },
+        {
+            "filename": "meeting-of-fashion-designers-e1649869690987.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/meeting-of-fashion-designers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 234911,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2MRQ4V6"
+        },
+        {
+            "filename": "drawing-fashion-designer-e1649869664338.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/drawing-fashion-designer-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 308414,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3DJZVN"
+        },
+        {
+            "filename": "ceo.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/ceo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 36104,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHWHTZ8"
+        },
+        {
+            "filename": "bg2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/bg2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 185438,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/hand-painted-abstract-background-watercolors-paper-texture_15340300.htm"
+        },
+        {
+            "filename": "team-of-fashion-designers-at-work-1-e1649869767982.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/team-of-fashion-designers-at-work-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 235449,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EXRKWPP"
+        },
+        {
+            "filename": "fashion-designer-drawing-on-tablet-e1649869736299.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-drawing-on-tablet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 249816,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SKRY3SX"
+        },
+        {
+            "filename": "fashion-designers-at-work-e1649869697463.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designers-at-work-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 280973,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B49T85J"
+        },
+        {
+            "filename": "pattern.jpeg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/pattern-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 192072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKPSLY"
+        },
+        {
+            "filename": "fashion-designer-e1649869677913.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 257385,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUDPUNN"
+        },
+        {
+            "filename": "arrow.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/arrow.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3121,
+            "dimensions": [
+                675,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/fashly\/"
+        },
+        {
+            "filename": "fashion-designers-at-work-1-e1649869728259.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designers-at-work-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 269758,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9UN2QTQ"
+        },
+        {
+            "filename": "fashion-designer-workplace-concept-.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-workplace-concept--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 187890,
+            "dimensions": [
+                2000,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SWDKQPC"
+        },
+        {
+            "filename": "testimonial-A8E2W8S.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/testimonial-A8E2W8S.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 30058,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A8E2W8S"
+        },
+        {
+            "filename": "testimonial-N8572T7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/testimonial-N8572T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "testimonial-83S5W35.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/testimonial-83S5W35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "team-of-fashion-designers-at-work-e1649869750176.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/team-of-fashion-designers-at-work-800x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 284711,
+            "dimensions": [
+                1920,
+                1292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MXNU9U2"
+        },
+        {
+            "filename": "teamwork-of-fashion-designers-e1649869640126.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/teamwork-of-fashion-designers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 213723,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-59KGTV8"
+        },
+        {
+            "filename": "fashion-designer-drawing-on-tablet-1-e1649870069624.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-drawing-on-tablet-1-e1649870069624.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 303435,
+            "dimensions": [
+                1905,
+                1271
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UQZZ8PB"
+        },
+        {
+            "filename": "a-cheerful-fashion-designers-team-e1649869744855.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/a-cheerful-fashion-designers-team-800x556.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 218386,
+            "dimensions": [
+                1920,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RRLS6Z2"
+        },
+        {
+            "filename": "happy-dressmaker-poses-at-workplace-in-workshop-ZUK5455.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/happy-dressmaker-poses-at-workplace-in-workshop-ZUK5455-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 173305,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZUK5455"
+        },
+        {
+            "filename": "fashion-designer-working-with-textile-in-workshop-FHWHTZ8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-working-with-textile-in-workshop-FHWHTZ8-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 213928,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHWHTZ8"
+        },
+        {
+            "filename": "dressmaker-fashion-designer-and-tailor-concept-YRLY742.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/dressmaker-fashion-designer-and-tailor-concept-YRLY742-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 194651,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YRLY742"
+        },
+        {
+            "filename": "pretty-female-fashion-designer-at-work-e1649869802821.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/pretty-female-fashion-designer-at-work-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 262055,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2TQGMDJ"
+        },
+        {
+            "filename": "fashion-designers-working-in-atelier-e1649869758763.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designers-working-in-atelier-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 217947,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N5GLHJ8"
+        },
+        {
+            "filename": "young-fashion-designers-consulting-professional-pattern-maker-e1649869894414.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/young-fashion-designers-consulting-professional-pattern-maker-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 243823,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYF5X2M"
+        },
+        {
+            "filename": "mannequin-with-wedding-dress-and-measure-tape-e1649869900959.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/mannequin-with-wedding-dress-and-measure-tape-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 190492,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DVH6LMA"
+        },
+        {
+            "filename": "cropped-shot-of-male-fashion-designer-in-apron-making-sewing-patterns-at-workplace-e1649869909807.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/cropped-shot-of-male-fashion-designer-in-apron-making-sewing-patterns-at-workplace-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 309535,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SXMWDXL"
+        },
+        {
+            "filename": "team-of-fashion-designers-at-work-HFFS5S6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/team-of-fashion-designers-at-work-HFFS5S6-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 281919,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HFFS5S6"
+        },
+        {
+            "filename": "fashion-designer-at-office-E9YTHKP.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-at-office-E9YTHKP-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 215940,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E9YTHKP"
+        },
+        {
+            "filename": "fashion-designer-QUDPUNN.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designer-QUDPUNN-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 237968,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUDPUNN"
+        },
+        {
+            "filename": "fashion-designers-working-together-high-anlge-e1649869870998.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/fashion-designers-working-together-high-anlge-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 187061,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9GRD3CC"
+        },
+        {
+            "filename": "two-female-fashion-designers-e1649869783505.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/two-female-fashion-designers-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 247982,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HF958DP"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/logo-800x261.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16712,
+            "dimensions": [
+                979,
+                319
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/fashion-logo-elements-black-white-vector-sticker-design-set_20775666.htm"
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/fashly\/wp-content\/uploads\/sites\/261\/2022\/04\/logo2-800x261.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15711,
+            "dimensions": [
+                979,
+                319
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/fashion-logo-elements-black-white-vector-sticker-design-set_20775666.htm"
+        }
+    ]
+}
